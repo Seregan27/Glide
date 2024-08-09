@@ -1,0 +1,501 @@
+body{
+    width: 400px;
+    height: 10473px;
+}
+.line{
+position: absolute;
+width: 212px;
+height: 4px;
+left: -3px;
+top: 1417px;
+}
+.IMA{
+position: absolute;
+width: 372px;
+height: 254px;
+left: 400px;
+top: 2784px;
+}
+.a{
+position: absolute;
+width: 76px;
+height: 23px;
+left: 134px;
+top: 20px;
+text-decoration: none;
+color: black;
+}
+.s{
+position: absolute;
+width: 75px;
+height: 23px;
+left: 252px;
+top: 20px;
+text-decoration: none;
+color: black;
+}
+.d{
+position: absolute;
+width: 65px;
+height: 23px;
+left: 351px;
+top: 20px;
+text-decoration: none;
+color: black;
+}
+.f{
+position: absolute;
+width: 75px;
+height: 23px;
+left: 458px;
+top: 20px;
+text-decoration: none;
+color: black;
+}
+.g{
+position: absolute;
+width: 51px;
+height: 23px;
+left: 575px;
+top: 20px;
+text-decoration: none;
+color: black;
+}
+.poisk{
+position: absolute;
+width: 16px;
+height: 16px;
+left: 959px;
+top: 24px;
+}
+.o{
+position: absolute;
+width: 80px;
+height: 40px;
+left: 991px;
+top: 12px;
+}
+.t{
+position: absolute;
+width: 89px;
+height: 40px;
+left: 1083px;
+top: 12px;
+}
+.h1{
+position: absolute;
+width: 712px;
+height: 67px;
+left: 28px;
+top: 144px;
+}
+.t1{
+position: absolute;
+width: 723px;
+height: 59px; 
+left: 28px;
+top: 312px;
+}
+.but1{
+position: absolute;
+width: 201px;
+height: 48px;
+left: 28px;
+top: 408px;
+}
+.h6o{
+position: absolute;
+width: 130px;
+height: 16px;
+left: 28px;
+top: 461px;
+}
+.ph{
+position: absolute;
+width: 1030px;
+height: 464px;
+left: 143px;
+top: 560px;
+}
+.tex1{
+position: absolute;
+width: 763px;
+height: 106px;
+left: 28px;
+top: 1156px;
+}
+.as{
+position: absolute;
+width: 150px;
+height: 24px;
+left: 990px;
+top: 1151px;
+text-decoration:none ;
+color: black;
+}
+.tex2{
+position: absolute;
+width: 745px;
+height: 88px;
+left: 28px;
+top: 1282px;
+}
+.img1{
+position: absolute;
+width: 1144px;
+height: 602px;
+left: 28px;
+top: 1549px;
+}
+.yt{
+position: absolute;
+width: 71px;
+height: 24px;
+left: 28px;
+top: 2577px;
+}
+.r3{
+position: absolute;
+width: 358px;
+height: 120px;
+left: 28px;
+top: 2836px;
+}
+.h4e{
+position: absolute;
+width: 238px;
+height: 28px;
+left: 28px;
+top: 2772px;
+}
+.th{
+position: absolute;
+width: 216px;
+height: 89px;
+left: 14px;
+top: 1409px;
+}
+.th2{
+position: absolute;
+width: 216px;
+height: 89px;
+left: 260px;
+top: 1415px;
+}
+.th3{
+position: absolute;
+width: 216px;
+height: 89px;
+left: 492px;
+top: 1415px;
+}
+.th4{
+position: absolute;
+width: 216px;
+height: 89px;
+left: 724px;
+top: 1415px;
+}
+.th5{
+position: absolute;
+width: 216px;
+height: 89px;
+left: 956px;
+top: 1415px;
+}
+.fr{
+position: absolute;
+width: 903px;
+height: 135px;
+left: 28px;
+top: 2417px;
+}
+.butu1{
+position: absolute;
+width: 148px;
+height: 48px;
+left: 820px;
+top: 2170px;
+}
+.butu2{
+position: absolute;
+width: 188px;
+height: 48px;
+left: 984px;
+top: 2170px;
+}
+.nm{
+position: absolute;
+width: 148px;
+height: 28px;
+left: 28px;
+top: 3213px;
+}
+.mn{
+position: absolute;
+width: 366px;
+height: 119px;
+left: 28px;
+top: 3277px;
+}
+.af{
+position: absolute;
+width: 217px;
+height: 28px;
+left: 28px;
+top: 3732px;
+}
+.dw{
+position: absolute;
+width: 338px;
+height: 119px;
+left: 28px;
+top: 3796px;
+}
+.re{
+position: absolute;
+width: 269px;
+height: 28px;
+left: 28px;
+top: 4212px;
+}
+.aq{
+position: absolute;
+width: 351px;
+height: 159px;
+left: 28px;
+top: 4276px;
+}
+.tz{
+position: absolute;
+width: 285px;
+height: 28px;
+left: 28px;
+top: 4770px;
+}
+.po{
+position: absolute;
+width: 364px;
+height: 119px;
+left: 28px;
+top: 4834px;
+}
+.ah{
+position: absolute;
+width: 224px;
+height: 28px;
+left: 28px;
+top: 5289px;
+}
+.lk{
+position: absolute;
+width: 366px;
+height: 80px;
+left: 28px;
+top: 5353px;
+}
+.circ{
+position: absolute;
+width: 1200px;
+height: 1032px;
+left: 0;
+top: 5643px;
+}
+.hu{
+position: absolute;
+width: 720px;
+height: 68px;
+left: 28px;
+top: 5762px;
+}
+.circ1{
+position: absolute;
+width: 334px;
+height: 56px;
+left: 28px;
+top: 5866px;
+}
+.iu{
+position: absolute;
+width: 286px;
+height: 28px;
+left: 52px;
+top: 5860px;
+}
+.ws{
+position: absolute;
+width: 247px;
+height: 28px;
+left: 402px;
+top: 5860px;
+}
+.et{
+position: absolute;
+width: 138px;
+height: 28px;
+left: 713px;
+top: 5860px;
+}
+.cd{
+position: absolute;
+width: 474px;
+height: 28px;
+left: 28px;
+top: 6512px;
+}
+.one{
+position: absolute;
+width: 56px;
+height: 25px;
+left: 1052px;
+top: 6514px;  
+}
+.one1{
+position: absolute;
+width: 6px;
+height: 12px;
+left: 15px;
+top: 18.94px;
+transform: rotate(180.00deg);
+left: 1076px;
+top: 6520px;
+}
+.two{
+position: absolute;
+width: 56px;
+height: 25px;
+left: 1116px;
+top: 6514px;
+}
+.two1{
+position: absolute;
+width: 6px;
+height: 12px;
+left: 9px;
+top: 6.06px;
+left: 1136px;
+top: 6520px;
+}
+.mb{
+position: absolute;
+width: 710px;
+height: 68px;
+left: 245px;
+top: 6812px;
+}
+.gs{
+position: absolute;
+width: 331px;
+height: 68px;
+left: 295px;
+top: 6840px;
+}
+.blo1{
+position: absolute;
+width: 1144px;
+height: 429px;
+left: 28px;
+top: 7027px;
+}
+.I{
+position: absolute;
+width: 572px;
+height: 429px;
+left: 570px;
+top: 1px;
+}
+.AD{
+position: absolute;
+width: 229px;
+height: 458px;
+left: 740px;
+top: 20px;
+}
+.Hg{
+position: absolute;
+width: 430px;
+height: 119px;
+left: 60px;
+top: 85px;
+}
+.glk{
+position: absolute;
+width: 100,5px;
+height: 70px;
+left: 5.7px;
+top: 5.73px;
+}
+.el{
+position: absolute;
+width: 101px;
+height: 28px;
+left: 60px;
+top: 235px;
+}
+.imo{
+position: absolute;
+height: 28px;
+left: 86px;
+top: -5px;
+}
+.oit{
+position: absolute;
+
+height: 28px;
+left: 276px;
+top: 7584px;
+}
+.cc{
+position: absolute;
+width: 286px;
+height: 33px;
+left: 28px;
+top: 7824px;
+}
+.sd{
+position: absolute;
+height: 250px;
+left: 28px;
+top: 7894px;
+}
+.ao{
+position: absolute;
+width: 207px;
+height: 20px;
+left: 497px;
+top: 8225px;
+}
+.hh{
+position: absolute;
+width: 805px;
+height: 53px;
+left: 350px;
+top: 8417px;
+}
+.fg{
+    position: absolute;
+    width: 700px;
+    left: 150px;
+    top: 8500px;
+}
+.di{
+    position: absolute;
+    width: 26px;
+    height: 27px;
+    left: 52px;
+    top: 10011px;
+}
+.lj{
+    position: absolute;
+    width: 309px;
+    height: 112px;
+    left: 52px;
+    top: 10057px;
+}
+.gdr{
+    position: absolute;
+width: 1000px;
+height: 526px;
+left: 0;
+top: 9947px;
+}
